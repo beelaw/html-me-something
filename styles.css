@@ -3,6 +3,7 @@ body {
     margin-bottom:20px;
     margin-right:20px;
     margin-left:20px;
+    font-size: 110%;
 }
 
 h1 {
@@ -13,14 +14,7 @@ h1 {
 p {
     margin-left:40px;
     margin-right:480px;
-    font-size: 110%;
-}
-
-ul {
-    margin-left:20px;
-    margin-right:480px;
-
-    list-style:none;
+    font-size: 90%;
 }
 
 a {
