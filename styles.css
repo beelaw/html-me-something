@@ -32,23 +32,19 @@ a {
 aa {
     font-size: 90%;
     color: rgb(119, 51, 51);
+    font-weight: bold;
 }
 
-aaa {
-    font-size: 75%;
-}
-
-aaaa {
-    font-size: 90%;
-}
 
 #position {
     font-size: 90%;
-    font-weight: bold;
+    color: black;
+    font-weight: normal;
 }
 
 #tiny {
     font-size: 75%;
+    font-weight: normal;
 }
 
 .details {
