@@ -6,15 +6,18 @@ body {
     font-size: 110%;
 }
 
+img {
+    margin-right: 40px;
+}
 footer {
     margin-left:40px;
-    align: "center";
 }
 table {
     width: 900px;
 }
 h1 {
     margin-left: 60px;
+    padding:20px;
 }
 
 
